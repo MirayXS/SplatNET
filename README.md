@@ -1,14 +1,15 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://cdn.discordapp.com/avatars/720254825815736410/2cfcf61229a0688b923f8570257814f1.png?size=2048">
+<img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog06_00.png">
 
 # SplatNET 
-> An open source Splatoon Discord.js Bot
+>>>>>>>>>> # An open source Splatoon Discord.js Bot
 
 <img src="https://img.shields.io/badge/Latest%20Version-v5.2.0-7289da?style=for-the-badge"> <a href="https://mirayxs.github.io/SplatNET"><img src="https://img.shields.io/badge/SplatNET-Website-7289da?style=for-the-badge"></a>
     
 |  |  | 
 | - | - |
 | Basic requirements| [![JavaScript](https://img.shields.io/badge/language-javascript-F7DF1E.svg?logo=JavaScript)](https://www.javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-12.13.0-339933.svg?logo=Node.js)](https://nodejs.org) [![DiscordJS](https://img.shields.io/badge/Discord.js-v12.2.0-7289DA.svg?logo=Discord)](https://discord.js.org) |
-| Github Repository Info |[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github)](https://www.gnu.org/licenses/gpl-3.0) [![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=MirayXS/SplatNET)](https://dependabot.com) ![GitHub repo size](https://img.shields.io/github/repo-size/MirayXS/SplatNET?logo=github) |
+| Github Repository Info |[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirayXS/SplatNET.svg?logo=Github&style=popout&logoColor=white) ![GitHub repo size](https://img.shields.io/github/repo-size/MirayXS/SplatNET?logo=github) |
+| Dependencies | [![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=MirayXS/SplatNET)](https://dependabot.com)  [![david-dm-org](https://img.shields.io/david/Asgarrrrr/Luna?color=4F36EC&style=flat-square)](https://david-dm.org/MirayXS/SplatNET) [![Known Vulnerabilities](https://snyk.io/test/github/MirayXS/SplatNET/badge.svg?targetFile=package.json)](https://snyk.io/test/github/MirayXS/SplatNET?targetFile=package.json) |
 
 ## Table Of Contents
 <details>
@@ -95,3 +96,7 @@
 * `splat!randommemcake` Memcake Randomizer <br><br>
 * `splat!randomfeststage` Splatfest Stage Randomizer <br><br>
 * `splat!randomfestcolor` Splatfest Color Randomizer
+
+<hr>
+
+<img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center">
