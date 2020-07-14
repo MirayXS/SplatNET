@@ -40,6 +40,38 @@
         - Next Schedules
 </details>
 
+## Features
+<details>
+<summary>Click to reveal</summary>
+
+<br>
+
+- Splatoon Information Data
+  - Schedules
+      - Turf War, Ranked, League
+        - Current Schedules
+        - Next Schedules
+      - Co-op (Salmon Run)
+        - Current Schedules
+        - Next Schedules
+        - Reward Item
+        
+- Splatoon Randomizers
+  - Generate a random private session code
+  - Mode Randomizer
+  - Weapon Randomizer
+  - Stage Randomizer
+  - Sub Weapon Randomizer
+  - Skill Randomizer
+  - Shoes Randomizer
+  - Brand Randomizer
+  - Clothes Randomizer
+  - Head Gear Randomizer
+  - Memcake Randomizer
+  - Splatfest Stage Randomizer
+  - Splatfest Color Randomizer
+</details>
+
 <hr>
 
 # Selfhosting  
