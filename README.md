@@ -25,7 +25,19 @@
   - [General](#general)
   - [Core](#core)
   - [Randomizers](#randomizers)
-  
+- [Internal Data](#internal-data)
+  - [Randomizers Images](#randomizers-images)
+      - SplatHeX
+      - MirayAPI
+- [Schedules](#schedules)
+  - Main API
+      - Co-op (Salmon Run)
+        - Current Schedules
+        - Next Schedules
+        - Reward Item
+      - Schedules (Turf War, Ranked, League)
+        - Current Schedules
+        - Next Schedules
 </details>
 
 <hr>
@@ -100,3 +112,25 @@
 <hr>
 
 <img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center">
+
+### Internal Data
+#### Randomizers Images
+<a href="https://github.com/MirayXS/SplatHeX">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
+</a>
+<a href="https://github.com/MirayXS/MirayAPI/tree/master/sp2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=MirayAPI" />
+</a>
+
+> JSON Data Files Made by [MirayXS](https://github.com/MirayXS)
+
+#### Schedules
+- Main API: [splatoon2.ink JSON Data](https://splatoon2.ink)
+  - Co-op (Salmon Run)
+    - Current Schedules: [splatoon2.ink/data/coop-schedules.json](https://splatoon2.ink/data/coop-schedules.json)
+    - Next Schedules   : [splatoon2.ink/data/coop-schedules.json](https://splatoon2.ink/data/coop-schedules.json)
+    - Reward Item      : [splatoon2.ink/data/timeline.json](https://splatoon2.ink/data/timeline.json)
+  - Schedules (Turf War, Ranked, League)
+    - Current Schedules: [splatoon2.ink/data/schedules.json](https://splatoon2.ink/data/schedules.json)
+    - Next Schedules   : [splatoon2.ink/data/schedules.json](https://splatoon2.ink/data/schedules.json)
+
