@@ -1,8 +1,4 @@
-<html>
-  <head>
-    <title>404: Page not found</title>
-    <style>
-      /*!
+/*!
  * ModestaCSS v1.0.2 (https://modesta.alexflipnote.dev)
  * Made by AlexFlipnote (https://alexflipnote.dev)
  * Licensed under GPL-3.0 (https://github.com/AlexFlipnote/ModestaCSS/blob/master/LICENSE)
@@ -8233,26 +8229,3 @@ button.youtube {
     background-color: #f00 !important;
     filter: brightness(50%)
 }
-    </style>
-
-  <style>
-    .cursor { animation: 1s blink step-end infinite; font-weight: bolder; }
-    @keyframes blink {
-      from, to { opacity: 0; }
-      50% { opacity: 1; }
-    }
-  </style>
-</head>
-
-<body>
-  <div class="fullscreen">
-    <div class="background" style="background-image: url('assets/images/404/404.jpg');"></div>
-      <div class="center-object center-text">
-        <h1 class="bold">
-          <span class="nephritis-text">404</span><br>Page not found <span class="cursor">_</span>
-        </h1>
-        <a href="/" class="btn nephritis-border">Back to home</a>
-      </div>
-    </div>
-  </body>
-</html>
