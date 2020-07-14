@@ -1,0 +1,48 @@
+{
+  "name": "splatnet-discordbot",
+  "version": "5.2.0",
+  "description": "An open source Splatoon Discord.js Bot",
+  "engines": {
+    "node": "12.13.0",
+    "npm": "6.12.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "node setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/MirayXS/SplatNET"
+  },
+  "author": "Miray - XxMirayxX21#3561",
+  "license": "GPLv3",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "discord",
+    "discord-js",
+    "discord-bot",
+    "discord-bot-splatoon",
+    "discord-bot-splatoon2",
+    "splatoon",
+    "splatoon2",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/MirayXS/SplatNET/issues"
+  },
+  "homepage": "https://github.com/MirayXS/SplatNET#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "gradient-string": "^1.2.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.1",
+    "prompts": "^2.3.2",
+    "superagent": "^5.3.1"
+  },
+  "devDependencies": {}
+}

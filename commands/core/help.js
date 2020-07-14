@@ -1,0 +1,32 @@
+const { MessageEmbed } = require('discord.js')
+const { prefix } = require('../../config/config.json')
+
+module.exports = {
+    name: "help",
+    category: "core",
+    description: "Displays Base Help with all my commands",
+  execute(message) {
+
+    const embed = new MessageEmbed()
+    .setAuthor(message.client.user.username, message.client.user.displayAvatarURL())
+    .setColor('45ddc0')
+    .setThumbnail(message.client.user.displayAvatarURL())
+    .setFooter(`Created with ❤ by XxMirayxX21#3561 - (Miray)`)
+    .setDescription(`Hi! I'm **${message.client.user.username}** and I am a bot based\n\on splatoon <Specially Splatoon 2, v5.2.0>\n\All my commands start with the prefix \`${prefix}\`!`)
+    .addField('\u200B', `\`\`\`asciidoc
+• Discord.js  :: v${require("discord.js").version}
+• Node        :: ${process.version}
+• SplatNET    :: v5.2.0\`\`\``)
+    .addField('\u200B', `SplatNET [Github Repository](https://github.com/MirayXS/SplatNET) | SplatNET [Website](https://mirayxs.github.io/SplatNET)`)
+
+    message.channel.send(embed);
+
+    const embedHelp = new MessageEmbed()
+    .setTitle('Base Help - ' + message.client.user.username)
+    .setColor('7289da')
+    .setFooter(`Created with ❤ by XxMirayxX21#3561 - (Miray)`)
+    .setDescription(`__**•• General / Information Commands - ${message.client.user.username} ••**__\n\n**${prefix}currentmaps :** Displays the current Splatoon 2 Gamemodes/Maps\n**${prefix}nextmaps :** Displays the upcoming Splatoon 2 Gamemodes/Maps\n**${prefix}currentsalmonrun :** Displays current Splatoon 2 Salmon Run Map/Weapons\n**${prefix}nextsalmonrun :** Displays upcoming Splatoon 2 Salmon Run Map/Weapons\n\n__**•• Core Commands - ${message.client.user.username} ••**__\n\n**${prefix}help :** Displays Base Help with all my commands\n**${prefix}ping :** Returns the bot's average ping\n**${prefix}stats :** Returns bot stats\n\n__**•• Randomizers Commands - ${message.client.user.username} ••**__\n\n**${prefix}sp2code :** Generates a random private session code (DMs)\n**${prefix}randommode :** Mode Randomizer\n**${prefix}randoweapon :** Weapon Randomizer\n**${prefix}randomstage :** Stage Randomizer\n**${prefix}randomsub :** Sub Weapon Randomizer\n**${prefix}randomskill :** Skill Randomizer\n**${prefix}randomshoes :** Shoes Randomizer\n**${prefix}randombrand :** Brand Randomizer\n**${prefix}randomclothes :** Clothes Randomizer\n**${prefix}randomheadgear :** Head Gear Randomizer\n**${prefix}randommemcake :** Memcake Randomizer\n**${prefix}randomfeststage :** Splatfest Stage Randomizer\n**${prefix}randomfestcolor :** Splatfest Color Randomizer`)
+
+    message.channel.send(embedHelp);
+ }
+}
