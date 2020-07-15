@@ -25,7 +25,51 @@
   - [General](#general)
   - [Core](#core)
   - [Randomizers](#randomizers)
-  
+- [Internal Data](#internal-data)
+  - [Randomizers Images](#randomizers-images)
+      - SplatHeX
+      - MirayAPI
+- [Schedules](#schedules)
+  - Main API
+      - Co-op (Salmon Run)
+        - Current Schedules
+        - Next Schedules
+        - Reward Item
+      - Schedules (Turf War, Ranked, League)
+        - Current Schedules
+        - Next Schedules
+</details>
+
+## Features
+<details>
+<summary>Click to reveal</summary>
+
+<br>
+
+- Splatoon Information Data
+  - Schedules
+      - Turf War, Ranked, League
+        - Current Schedules
+        - Next Schedules
+      - Co-op (Salmon Run)
+        - Current Schedules
+        - Next Schedules
+        - Reward Item
+        
+- Splatoon Randomizers
+  - Generate a random private session code
+  - Mode Randomizer
+  - Weapon Randomizer
+  - Stage Randomizer
+  - Sub Weapon Randomizer
+  - Skill Randomizer
+  - Shoes Randomizer
+  - Brand Randomizer
+  - Clothes Randomizer
+  - Head Gear Randomizer
+  - Memcake Randomizer
+  - Splatfest Stage Randomizer
+  - Splatfest Color Randomizer
 </details>
 
 <hr>
@@ -99,4 +143,28 @@
 
 <hr>
 
-<img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center">
+<!-- <img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center"> -->
+
+### Internal Data
+#### Randomizers Images
+<div align="left">
+<a href="https://github.com/MirayXS/SplatHeX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
+</a>
+<a href="https://github.com/MirayXS/MirayAPI/tree/master/sp2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=MirayAPI" />
+</a>
+    </div>
+
+<hr>
+
+#### Schedules
+- Main API: [splatoon2.ink JSON Data](https://splatoon2.ink)
+  - Co-op (Salmon Run)
+    - Current Schedules: [splatoon2.ink/data/coop-schedules.json](https://splatoon2.ink/data/coop-schedules.json)
+    - Next Schedules   : [splatoon2.ink/data/coop-schedules.json](https://splatoon2.ink/data/coop-schedules.json)
+    - Reward Item      : [splatoon2.ink/data/timeline.json](https://splatoon2.ink/data/timeline.json)
+  - Schedules (Turf War, Ranked, League)
+    - Current Schedules: [splatoon2.ink/data/schedules.json](https://splatoon2.ink/data/schedules.json)
+    - Next Schedules   : [splatoon2.ink/data/schedules.json](https://splatoon2.ink/data/schedules.json)
+
