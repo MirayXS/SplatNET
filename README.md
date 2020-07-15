@@ -143,7 +143,7 @@
 
 <hr>
 
-<img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center">
+<!-- <img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center"> -->
 
 ### Internal Data
 #### Randomizers Images
