@@ -69,9 +69,9 @@ fs.readdirSync("./commands").forEach((dir) => {
 });
 
 console.log(chalk.bold(gradient("#8EA6DB", "#6A54C9")('<----------- LOAD COMMANDS TO CLIENT ----------->')))
-console.log(`${chalk.bold(gradient("#8EA6DB", "#6A54C9")(`[INFO]`))} : General      commands were successfully loaded to Client`)
-console.log(`${chalk.bold(gradient("#8EA6DB", "#6A54C9")(`[INFO]`))} : Core         commands were successfully loaded to Client`)
-console.log(`${chalk.bold(gradient("#8EA6DB", "#6A54C9")(`[INFO]`))} : Randomizers  commands were successfully loaded to Client`)
+console.log(`${chalk.bold(gradient("#8EA6DB", "#6A54C9")(`[INFO]`))} : General           commands were successfully loaded to Client`)
+console.log(`${chalk.bold(gradient("#8EA6DB", "#6A54C9")(`[INFO]`))} : Core              commands were successfully loaded to Client`)
+console.log(`${chalk.bold(gradient("#8EA6DB", "#6A54C9")(`[INFO]`))} : Random Generator  commands were successfully loaded to Client`)
 console.log(chalk.bold(gradient("#8EA6DB", "#6A54C9")('-----------------------------------------------\n\n')))
 
 client.on('message', message => {

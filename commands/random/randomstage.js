@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
     name: "randomstage",
-    category: "randomizers",
-    description: "Stage Randomizer",
+    category: "Random Generator",
+    description: "Stage Random Generator",
   execute(message) {
 
             let roll = [Math.floor(Math.random() * 22)]

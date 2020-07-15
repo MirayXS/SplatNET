@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
     name: "randomskill",
-    category: "randomizers",
-    description: "Skill Randomizer",
+    category: "Random Generator",
+    description: "Skill Random Generator",
   execute(message) {
 
     const toselect = require('../../assets/json/skills.json')

@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
     name: "randommode",
-    category: "randomizers",
-    description: "Mode Randomizer",
+    category: "Random Generator",
+    description: "Mode Random Generator",
   execute(message) {
 
     const toselect = ['Defense_zones.png', 'Expedition_risquee.png', 'Mission_Bazookarpe.png', 'Pluie_de_palourdes.png']

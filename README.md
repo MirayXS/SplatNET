@@ -24,9 +24,9 @@
 - [Command list](#command-list)
   - [General](#general)
   - [Core](#core)
-  - [Randomizers](#randomizers)
+  - [Random Generator](#random-generator)
 - [Internal Data](#internal-data)
-  - [Randomizers Images](#randomizers-images)
+  - [Random Generator Images](#random-generator-images)
       - SplatHeX
       - MirayAPI
 - [Schedules](#schedules)
@@ -56,20 +56,20 @@
         - Next Schedules
         - Reward Item
         
-- Splatoon Randomizers
+- Splatoon Random Generator
   - Generate a random private session code
-  - Mode Randomizer
-  - Weapon Randomizer
-  - Stage Randomizer
-  - Sub Weapon Randomizer
-  - Skill Randomizer
-  - Shoes Randomizer
-  - Brand Randomizer
-  - Clothes Randomizer
-  - Head Gear Randomizer
-  - Memcake Randomizer
-  - Splatfest Stage Randomizer
-  - Splatfest Color Randomizer
+  - Mode Random Generator
+  - Weapon Random Generator
+  - Stage Random Generator
+  - Sub Weapon Random Generator
+  - Skill Random Generator
+  - Shoes Random Generator
+  - Brand Random Generator
+  - Clothes Random Generator
+  - Head Gear Random Generator
+  - Memcake Random Generator
+  - Splatfest Stage Random Generator
+  - Splatfest Color Random Generator
 </details>
 
 <hr>
@@ -126,27 +126,27 @@
   <img src="https://mirayxs.github.io/SplatHeX/splatools/splatools.png" height="200" title="TOOLS" align="right">
 </p>
 
-### Randomizers
+### Random Generator
 * `splat!sp2code` Generates a random private session code (DMs) <br><br>
-* `splat!randommode` Mode Randomizer <br><br>
-* `splat!randoweapon` Weapon Randomizer <br><br>
-* `splat!randomstage` Stage Randomizer <br><br>
-* `splat!randomsub` Sub Weapon Randomizer <br><br>
-* `splat!randomskill` Skill Randomizer <br><br>
-* `splat!randomshoes` Shoes Randomizer <br><br>
-* `splat!randombrand` Brand Randomizer <br><br>
-* `splat!randomclothes` Clothes Randomizer <br><br>
-* `splat!randomheadgear` Head Gear Randomizer <br><br>
-* `splat!randommemcake` Memcake Randomizer <br><br>
-* `splat!randomfeststage` Splatfest Stage Randomizer <br><br>
-* `splat!randomfestcolor` Splatfest Color Randomizer
+* `splat!randommode` Mode Random Generator <br><br>
+* `splat!randoweapon` Weapon Random Generator <br><br>
+* `splat!randomstage` Stage Random Generator <br><br>
+* `splat!randomsub` Sub Weapon Random Generator <br><br>
+* `splat!randomskill` Skill Random Generator <br><br>
+* `splat!randomshoes` Shoes Random Generator <br><br>
+* `splat!randombrand` Brand Random Generator <br><br>
+* `splat!randomclothes` Clothes Random Generator <br><br>
+* `splat!randomheadgear` Head Gear Random Generator <br><br>
+* `splat!randommemcake` Memcake Random Generator <br><br>
+* `splat!randomfeststage` Splatfest Stage Random Generator <br><br>
+* `splat!randomfestcolor` Splatfest Color Random Generator
 
 <hr>
 
 <!-- <img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center"> -->
 
 ### Internal Data
-#### Randomizers Images
+#### Random Generator Images
 <div align="left">
 <a href="https://github.com/MirayXS/SplatHeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />

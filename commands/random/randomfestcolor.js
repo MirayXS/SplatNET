@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
     name: "randomfestcolor",
-    category: "randomizers",
-    description: "Splatfest Color Randomizer",
+    category: "Random Generator",
+    description: "Splatfest Color Random Generator",
   execute(message) {
 
     const toselect = require('../../assets/json/festcolors.json')

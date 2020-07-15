@@ -2,8 +2,8 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
     name: "randomsub",
-    category: "randomizers",
-    description: "Sub Weapon Randomizer",
+    category: "Random Generator",
+    description: "Sub Weapon Random Generator",
   execute(message) {
 
     let toselect = ["Wsb_Bomb_Curling.png	","Wsb_Bomb_Piyo.png	","Wsb_Bomb_Quick.png		","Wsb_Bomb_Robo.png	","Wsb_Bomb_Splash.png	","Wsb_Bomb_Suction.png	","Wsb_Bomb_Tako.png	","Wsb_Flag.png	","Wsb_PointSensor.png	","Wsb_PoisonFog.png	","Wsb_Shield.png	","Wsb_Sprinkler.png	","Wsb_TimerTrap.png	"]
