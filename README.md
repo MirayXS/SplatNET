@@ -72,6 +72,17 @@
   - Splatfest Color Random Generator
 </details>
 
+## Todo
+
+- [ ] Events Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(guildCreate.js, guildDelete.js)
+- [ ] Owner ID Setup⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (setup.js, config/config.json)
+- [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear` - Gear Set Randomizer)
+- [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`  - Full Set Randomizer)
+- [ ] Random Generator : Random Team Weapon⠀⠀ (`splat!randomteamweapon` - Team Weapons Randomizer)
+- [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear` - Team Gear Randomizer)
+- [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2/en_files.html)*
+- [ ] Randomizers -> Random Generator
+
 <hr>
 
 # Selfhosting  
