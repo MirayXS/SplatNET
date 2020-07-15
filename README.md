@@ -76,12 +76,15 @@
 
 - [ ] Events Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(guildCreate.js, guildDelete.js)
 - [ ] Owner ID Setup⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (setup.js, config/config.json)
-- [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear` - Gear Set Random Generator)
-- [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`  - Full Set Random Generator)
+- [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear`       - Gear Set Random Generator)
+- [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`        - Full Set Random Generator)
 - [ ] Random Generator : Random Team Weapon⠀⠀ (`splat!randomteamweapon` - Team Weapons Random Generator)
-- [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear` - Team Gear Random Generator)
+- [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear`  - Team Gear Random Generator)
 - [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2/en_files.html)*
 - [x] Randomizers -> Random Generator
+- [ ] Owner Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  (`commands/owner`)
+- [ ] Owner Command⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/owner/eval.js` - `splat!eval`)
+- [ ] Owner Helper⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/core/help.js` - `splat!help`)
 
 <hr>
 
