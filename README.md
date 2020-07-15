@@ -154,6 +154,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=MirayAPI" />
 </a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<hr>
+
 #### Schedules
 - Main API: [splatoon2.ink JSON Data](https://splatoon2.ink)
   - Co-op (Salmon Run)
