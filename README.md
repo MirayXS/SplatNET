@@ -147,18 +147,14 @@
 
 ### Internal Data
 #### Randomizers Images
+<div align="left">
 <a href="https://github.com/MirayXS/SplatHeX">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
 </a>
 <a href="https://github.com/MirayXS/MirayAPI/tree/master/sp2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=MirayAPI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=MirayAPI" />
 </a>
-
-<br>
-<br>
-<br>
-<br>
-<br>
+    </div>
 
 <hr>
 
