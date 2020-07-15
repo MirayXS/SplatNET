@@ -1,5 +1,5 @@
 {
-  "name": "splatnet-discordbot",
+  "name": "splatnet",
   "version": "5.2.0",
   "description": "An open source Splatoon Discord.js Bot",
   "engines": {
@@ -13,22 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/MirayXS/SplatNET"
+    "url": "git+https://github.com/MirayXS/SplatNET.git"
   },
-  "author": "Miray - XxMirayxX21#3561",
-  "license": "GPLv3",
-  "keywords": [
-    "nodejs",
-    "javascript",
-    "discord",
-    "discord-js",
-    "discord-bot",
-    "discord-bot-splatoon",
-    "discord-bot-splatoon2",
-    "splatoon",
-    "splatoon2",
-    "bot"
-  ],
+  "author": "MirayXS",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/MirayXS/SplatNET/issues"
   },
