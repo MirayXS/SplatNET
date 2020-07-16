@@ -80,7 +80,7 @@
 - [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`        - Full Set Random Generator)
 - [ ] Random Generator : Random Team Weapon⠀⠀ (`splat!randomteamweapon` - Team Weapons Random Generator)
 - [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear`  - Team Gear Random Generator)
-- [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2/en_files.html)*
+- [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2new/database.html)* *[From **Upcoming** SplatData](https://github.com/MirayXS/SplatData)
 - [x] Randomizers -> Random Generator
 - [ ] Owner Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  (`commands/owner`)
 - [ ] Owner Command⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/owner/eval.js` - `splat!eval`)
