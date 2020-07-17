@@ -85,6 +85,13 @@
 - [ ] Owner Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  (`commands/owner`)
 - [ ] Owner Command⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/owner/eval.js` - `splat!eval`)
 - [ ] Owner Helper⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/core/help.js` - `splat!help`)
+- [ ] Migrate "./assets/json/.." to https://github.com/MirayXS/SplatDatabase/tree/master/arrayInternal
+- [ ] Delete the assets folder after migration
+- [ ] Weapon and Gear Database Searching Commands (`commands/database`)
+  - `splat!weapon`  <weapon name> returns info about a specified weapon
+  - `splat!headgear` <headgear name> returns info about a specified headgear
+  - `splat!clothes` <clothes name> returns info about specified clothes
+  - `splat!shoes` <shoes name> returns info about specified shoes
 
 <hr>
 
