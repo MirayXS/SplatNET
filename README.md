@@ -74,17 +74,12 @@
 
 ## Todo
 
-- [ ] Events Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(guildCreate.js, guildDelete.js)
-- [ ] Owner ID Setup⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (setup.js, config/config.json)
 - [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear`       - Gear Set Random Generator)
 - [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`        - Full Set Random Generator)
 - [ ] Random Generator : Random Team Weapon⠀⠀ (`splat!randomteamweapon` - Team Weapons Random Generator)
 - [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear`  - Team Gear Random Generator)
 - [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2new/database.html)* - *[From **Upcoming** SplatDatabase](https://github.com/MirayXS/SplatDatabase)*
 - [x] Randomizers -> Random Generator
-- [ ] Owner Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  (`commands/owner`)
-- [ ] Owner Command⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/owner/eval.js` - `splat!eval`)
-- [ ] Owner Helper⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (`commands/core/help.js` - `splat!help`)
 - [ ] Migrate "./assets/json/.." to https://github.com/MirayXS/SplatDatabase/tree/master/arrayInternal
 - [ ] Delete the assets folder after migration
 - [ ] Weapon and Gear Database Searching Commands (`commands/database`)
