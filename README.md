@@ -74,6 +74,7 @@
 
 ## Todo
 
+- [ ] Random Generator : Random Private Session (`splat!privatebattle` - Gives you a random setup for a private battle!)
 - [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear`       - Gear Set Random Generator)
 - [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`        - Full Set Random Generator)
 - [ ] Random Generator : Random Team Weapon⠀⠀ (`splat!randomteamweapon` - Team Weapons Random Generator)
