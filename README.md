@@ -74,6 +74,8 @@
 
 ## Todo
 
+- [ ] Events Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(guildCreate.js, guildDelete.js)
+- [ ] Owner ID Setup⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (setup.js, config/config.json)
 - [ ] Random Generator : Random Private Session (`splat!privatebattle` - Gives you a random setup for a private battle!)
 - [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear`       - Gear Set Random Generator)
 - [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`        - Full Set Random Generator)
