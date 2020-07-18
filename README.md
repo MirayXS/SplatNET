@@ -1,4 +1,4 @@
-<img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog06_00.png">
+<img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://pbs.twimg.com/media/DM3lhkrW4AAEeR7?format=png&name=large">
 
 # SplatNET 
 >>>>>>>>>> ## An open source Splatoon Discord.js Bot
@@ -78,12 +78,20 @@
 
 - [ ] Events Folder⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(guildCreate.js, guildDelete.js)
 - [ ] Owner ID Setup⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ (setup.js, config/config.json)
-- [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear` - Gear Set Random Generator)
-- [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`  - Full Set Random Generator)
+- [ ] Random Generator : Random Private Session (`splat!privatebattle` - Gives you a random setup for a private battle!)
+- [ ] Random Generator : Random Gear⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomgear`       - Gear Set Random Generator)
+- [ ] Random Generator : Random Set⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀(`splat!randomset`        - Full Set Random Generator)
 - [ ] Random Generator : Random Team Weapon⠀⠀ (`splat!randomteamweapon` - Team Weapons Random Generator)
-- [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear` - Team Gear Random Generator)
-- [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2/en_files.html)*
+- [ ] Random Generator : Random Team Gear⠀⠀⠀⠀⠀(`splat!randomteamgear`  - Team Gear Random Generator)
+- [ ] Item and Gear Data **names** JSON Files⠀⠀⠀⠀⠀ ⠀(for the above random generators) *[From SplatHeX](https://mirayxs.github.io/SplatHeX/splat2new/database.html)* - *[From **Upcoming** SplatDatabase](https://github.com/MirayXS/SplatDatabase)*
 - [x] Randomizers -> Random Generator
+- [ ] Migrate "./assets/json/.." to https://github.com/MirayXS/SplatDatabase/tree/master/arrayInternal
+- [ ] Delete the assets folder after migration
+- [ ] Weapon and Gear Database Searching Commands (`commands/database`)
+  - `splat!weapon`  <weapon name> returns info about a specified weapon
+  - `splat!headgear` <headgear name> returns info about a specified headgear
+  - `splat!clothes` <clothes name> returns info about specified clothes
+  - `splat!shoes` <shoes name> returns info about specified shoes
 
 <hr>
 
