@@ -38,8 +38,10 @@
       - Schedules (Turf War, Ranked, League)
         - Current Schedules
         - Next Schedules
-- [SplatNet Gear](#splatnet-gear)
+- [SplatNet](#splatnet)
   - Main API
+    - Gear
+        - Current SplatNet Gear
 </details>
 
 ## Features
@@ -57,6 +59,8 @@
         - Current Schedules
         - Next Schedules
         - Reward Item
+  - SplatNet
+      - Current SplatNet Gear
         
 - Splatoon Random Generator
   - Generate a random private session code
