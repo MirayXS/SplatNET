@@ -1,4 +1,4 @@
-<img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog06_00.png">
+<img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://pbs.twimg.com/media/DM3lhkrW4AAEeR7?format=png&name=large">
 
 # SplatNET 
 >>>>>>>>>> ## An open source Splatoon Discord.js Bot
