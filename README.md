@@ -38,6 +38,8 @@
       - Schedules (Turf War, Ranked, League)
         - Current Schedules
         - Next Schedules
+- [SplatNet Gear](#splatnet-gear)
+  - Main API
 </details>
 
 ## Features
@@ -118,7 +120,8 @@
 * `splat!currentmaps` Displays the current Splatoon 2 Gamemodes/Maps <br><br>
 * `splat!nextmaps` Displays the upcoming Splatoon 2 Gamemodes/Maps <br><br>
 * `splat!currentsalmonrun` Displays current Splatoon 2 Salmon Run Map/Weapons <br><br>
-* `splat!nextsalmonrun` Displays upcoming Splatoon 2 Salmon Run Map/Weapons
+* `splat!nextsalmonrun` Displays upcoming Splatoon 2 Salmon Run Map/Weapons <br><br>
+* `splat!splatnet` Displays contents of the splatnet shop
 
 <hr>
 
@@ -179,3 +182,7 @@
     - Current Schedules: [splatoon2.ink/data/schedules.json](https://splatoon2.ink/data/schedules.json)
     - Next Schedules   : [splatoon2.ink/data/schedules.json](https://splatoon2.ink/data/schedules.json)
 
+#### SplatNet
+- Main API: [splatoon2.ink JSON Data](https://splatoon2.ink)
+  - Gear
+    - Current SplatNet Gear: [splatoon2.ink/data/merchandises.json](https://splatoon2.ink/data/merchandises.json)

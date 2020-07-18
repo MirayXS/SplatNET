@@ -7,9 +7,9 @@ module.exports = {
     description: "Displays upcoming Splatoon 2 Salmon Run Map/Weapons",
   execute(message) {
 
-request.get('https://splatoon2.ink/data/coop-schedules.json')
+request.get('https://splatoon2.ink/data/coop-schedules.json').set('User-Agent', "SplatNET/5.2.0 (Discord Author Contact: XxMirayxX21#3561) [Repository: github.com/MirayXS/SplatNET]")
     .end((err, response) => {
-      request.get('https://splatoon2.ink/data/timeline.json')
+      request.get('https://splatoon2.ink/data/timeline.json').set('User-Agent', "SplatNET/5.2.0 (Discord Author Contact: XxMirayxX21#3561) [Repository: github.com/MirayXS/SplatNET]")
       .end((err, responseTimeline) => {
   const embed = new MessageEmbed()
   .setTitle("Upcoming Salmon Run")
