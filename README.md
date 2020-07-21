@@ -105,7 +105,7 @@
 
 ##### Prerequisite
 
--   To wake up SplatNET, Node.js 12.13.0 or newer must be [installed](https://nodejs.org/en/download/).
+-   To wake up SplatNET, Node.js 14.4.0 or newer must be [installed](https://nodejs.org/en/download/).
 
 ##### Downloading and installing steps
 

@@ -39,12 +39,12 @@ new Menu(message.channel, message.author.id, [
           },
         {
           name: "Original Price",
-          value: response.body.merchandises[0].original_gear.price,
+          value: response.body.merchandises[0]?.original_gear.price,
           inline: true
       },
       {
         name: "Common Gear Ability",
-        value: response.body.merchandises[0].original_gear.skill.name,
+        value: response.body.merchandises[0]?.original_gear?.skill.name,
         inline: true
     }
           ]
@@ -81,12 +81,12 @@ new Menu(message.channel, message.author.id, [
         },
       {
         name: "Original Price",
-        value: response.body.merchandises[1].original_gear.price,
+        value: response.body.merchandises[1]?.original_gear.price,
         inline: true
     },
     {
       name: "Common Gear Ability",
-      value: response.body.merchandises[1].original_gear.skill.name,
+      value: response.body.merchandises[1]?.original_gear?.skill.name,
       inline: true
   }
           ]
@@ -123,12 +123,12 @@ new Menu(message.channel, message.author.id, [
         },
       {
         name: "Original Price",
-        value: response.body.merchandises[2].original_gear.price,
+        value: response.body.merchandises[2]?.original_gear.price,
         inline: true
     },
     {
       name: "Common Gear Ability",
-      value: response.body.merchandises[2].original_gear.skill.name,
+      value: response.body.merchandises[2]?.original_gear?.skill.name,
       inline: true
   }
           ]
@@ -165,12 +165,12 @@ new Menu(message.channel, message.author.id, [
           },
         {
           name: "Original Price",
-          value: response.body.merchandises[3].original_gear.price,
+       //   value: response.body.merchandises[3]?.original_gear.price,
           inline: true
       },
       {
         name: "Common Gear Ability",
-        value: response.body.merchandises[3].original_gear.skill.name,
+        value: response.body.merchandises[3]?.original_gear?.skill.name,
         inline: true
     }
             ]
@@ -207,12 +207,12 @@ new Menu(message.channel, message.author.id, [
             },
           {
             name: "Original Price",
-            value: response.body.merchandises[4].original_gear.price,
+            value: response.body.merchandises[4]?.original_gear.price,
             inline: true
         },
         {
           name: "Common Gear Ability",
-          value: response.body.merchandises[4].original_gear.skill.name,
+          value: response.body.merchandises[4]?.original_gear?.skill.name,
           inline: true
       }
               ]
@@ -249,12 +249,12 @@ new Menu(message.channel, message.author.id, [
               },
             {
               name: "Original Price",
-              value: response.body.merchandises[5].original_gear.price,
+              value: response.body.merchandises[5]?.original_gear.price,
               inline: true
           },
           {
             name: "Common Gear Ability",
-            value: response.body.merchandises[5].original_gear.skill.name,
+            value: response.body.merchandises[5]?.original_gear?.skill.name,
             inline: true
         }
                 ]
