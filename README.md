@@ -96,6 +96,7 @@
   - `splat!headgear` <headgear name> returns info about a specified headgear
   - `splat!clothes` <clothes name> returns info about specified clothes
   - `splat!shoes` <shoes name> returns info about specified shoes
+- [ ] Add Parameters to commands (splat!help, README.md)
 
 <hr>
 
