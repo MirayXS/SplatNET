@@ -174,12 +174,9 @@
 
 ### Internal Data
 #### Random Generator Images
-<div align="left">
+<div align="center">
 <a href="https://github.com/MirayXS/SplatHeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
-</a>
-<a href="https://github.com/MirayXS/MirayAPI/tree/master/sp2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=MirayAPI" />
 </a>
     </div>
 
