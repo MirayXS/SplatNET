@@ -165,7 +165,7 @@ new Menu(message.channel, message.author.id, [
           },
         {
           name: "Original Price",
-       //   value: response.body.merchandises[3]?.original_gear?.price,
+          value: response.body.merchandises[3]?.original_gear?.price,
           inline: true
       },
       {
