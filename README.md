@@ -178,6 +178,9 @@
 <a href="https://github.com/MirayXS/SplatHeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
 </a>
+    <a href="https://github.com/MirayXS/SplatDatabase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatDatabase" />
+</a>
     </div>
 
 <hr>
