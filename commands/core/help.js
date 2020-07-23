@@ -17,7 +17,7 @@ module.exports = {
 • Discord.js  :: v${require("discord.js").version}
 • Node        :: ${process.version}
 • SplatNET    :: v5.2.0\`\`\``)
-    .addField('\u200B', `SplatNET [Github Repository](https://github.com/MirayXS/SplatNET) | SplatNET [Website](https://mirayxs.github.io/SplatNET)`)
+    .addField('\u200B', `SplatNET [Github Repository](https://github.com/MirayXS/SplatNET)`)
 
     message.channel.send(embed);
 

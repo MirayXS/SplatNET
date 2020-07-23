@@ -1,9 +1,9 @@
 <img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://pbs.twimg.com/media/DM3lhkrW4AAEeR7?format=png&name=large">
 
 # SplatNET 
->>>>>>>>>> ## An open source Splatoon Discord.js Bot
+>>>>>>>>>> ## SplatNET is a Powerful Splatoon Discord Bot
 
-<img src="https://img.shields.io/badge/Latest%20Version-v5.2.0-7289da?style=for-the-badge"> <a href="https://mirayxs.github.io/SplatNET"><img src="https://img.shields.io/badge/SplatNET-Website-7289da?style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/Latest%20Version-v5.2.0-7289da?style=for-the-badge">
     
 |  |  | 
 | - | - |

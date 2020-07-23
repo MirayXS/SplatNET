@@ -48,7 +48,7 @@
     console.log([
         // Print the header
         chalk.bold(gradient("#8EA6DB", "#6A54C9")(ASCIIHeader)),
-        chalk.hex("#6A54C9").bold.italic("An open source Splatoon Discord.js Bot\n\n"),
+        chalk.hex("#6A54C9").bold.italic("SplatNET is a Powerful Splatoon Discord Bot.\n\n"),
         `– ${chalk.hex("#6A54C9").bold(Object.keys(pjson.dependencies).length)} packages have been installed\n`
     ].join("\n"));
 

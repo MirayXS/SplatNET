@@ -1,7 +1,7 @@
 {
   "name": "splatnet",
   "version": "5.2.0",
-  "description": "An open source Splatoon Discord.js Bot",
+  "description": "SplatNET is a Powerful Splatoon Discord Bot",
   "engines": {
     "node": "14.4.0",
     "npm": "6.12.0"

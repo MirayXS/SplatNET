@@ -1,5 +1,5 @@
 /*!
- * SplatNET v5.2.0 (https://mirayxs.github.io/SplatNET)
+ * SplatNET v5.2.0 (https://github.com/MirayXS/SplatNET)
  * Made by XxMirayxX21#3561 - (Miray) (https://github.com/MirayXS)
  * Licensed under GPL-3.0 (https://github.com/MirayXS/SplatNET/LICENSE)
  */
@@ -29,7 +29,7 @@ var ASCIIHeader = [
 console.log([
 	// Print the header
 	chalk.bold(gradient("#8EA6DB", "#6A54C9")(ASCIIHeader)),
-	chalk.hex("#6A54C9").bold.italic("An open source Splatoon Discord.js Bot\n\n"),
+	chalk.hex("#6A54C9").bold.italic("SplatNET is a Powerful Splatoon Discord Bot.\n\n"),
 ].join("\n"));
 
 console.log(cyan('\n\n<----------- Booting up SplatNET ----------->'))
