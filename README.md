@@ -94,6 +94,12 @@
   - `splat!clothes` <clothes name> returns info about specified clothes
   - `splat!shoes` <shoes name> returns info about specified shoes
 - [ ] Add Parameters to commands (splat!help, README.md)
+- [ ] Re-design helper embed with [discord.js easy menu creator](https://github.com/jowsey/discord.js-menu)
+- [ ] Individual stats for rotations (`commands/individual`)
+    - `splat!turfwar` displays current and next turfwar stats rotation
+    - `splat!ranked` displays current and next ranked stats rotation
+    - `splat!league` displays current and next league stats rotation
+    - `splat!rotations` displays all modes current and next stats rotation // [discord.js easy menu creator](https://github.com/jowsey/discord.js-menu)
 
 <hr>
 
