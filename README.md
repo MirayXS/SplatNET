@@ -26,9 +26,8 @@
   - [Core](#core)
   - [Random Generator](#random-generator)
 - [Internal Data](#internal-data)
-  - [Random Generator Images](#random-generator-images)
-      - SplatHeX
-      - MirayAPI
+  - SplatHeX
+  - MirayAPI
 - [Schedules](#schedules)
   - Main API
       - Co-op (Salmon Run)
@@ -176,7 +175,6 @@
 <!-- <img src="https://mirayxs.github.io/SplatNET/assets/images/SP2chatlog/OctMessageLog10_00.png" align="center"> -->
 
 ### Internal Data
-#### Random Generator Images
 <div align="center">
 <a href="https://github.com/MirayXS/SplatHeX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MirayXS&repo=SplatHeX" />
