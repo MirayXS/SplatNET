@@ -178,11 +178,20 @@ arrayColors = [
   "43B581", // Moderate cyan
   "60C1D4", // Moderate cyan
   "2E7456", // Dark moderate cyan
+  "00FFFF", // Pure (or mostly pure) cyan.
+  "6DA0EF", // Cyan
+  "35AADC", // Cyan
   "2ECC71", // lime green
   "82FF96", // Very light lime green
   "3fff33", // Vivid lime green
   "1F8B4C", // Dark lime green
   "1EDC00", // Pure (or mostly pure) lime green
+  "74C080", // Green
+  "ABD7B4", // Light Green
+  "F8FCF9", // Lightest Green
+  "32ABAE", // Green
+  "ADE28F", // Green
+  "11A8AB", // Green
   "3498DB", // Bright blue
   "4086EC", // Bright blue
   "206694", // dark blue
@@ -196,12 +205,34 @@ arrayColors = [
   "9c84ef", // Very soft blue
   "3E70DD", // Bright blue
   "B7C2CE", // Grayish blue
+  "364966", // Grayish blue
+  "8DCAE9", // Very soft blue
+  "96A5E9", // Very soft blue
+  "475366", // Very dark grayish blue
+  "CED7E6", // Light grayish blue
+  "A1CAFA", // blue
+  "408FEC", // Blue
+  "F6FAFF", // Lightest Blue
+  "8EBDF1", // Light Blue
+  "00A1E0", // Salesforce Blue
+  "215CA0", // Mid Blue
+  "032E61", // Dark Blue
   "9B59B6", // Moderate violet
   "71368A", // Dark moderate violet
+  "79589F", // Mostly desaturated dark violet
+  "9E7CC1", // Slightly desaturated violet
+  "430098", // Violet
+  "211746", // Indigo
   "8427fa", // Bright violet
+  "7673C0", // Lavander
   "F1C40F", // Vivid yellow
   "FFDD00", // Pure (or mostly pure) yellow
   "ff8633", // Vivid orange
+  "FA9F47", // Orange
+  "FBC595", // Light Orange
+  "FFFAF6", // Lightest Orange
+  "D26E26", // Orange
+  "FFD3A0", // Orange
   "A84300", // Dark orange [Brown tone]
   "D7AA73", // Slightly desaturated orange
   "C88D32", // Strong orange
@@ -211,11 +242,120 @@ arrayColors = [
   "992D22", // Dark red
   "f47b67", // Soft red
   "ff4554", // Light red
+  "D64141", // Red
+  "E58F8F", // Light Red
+  "FDF6F6", // Lightest Red
+  "F37A65", // Red
+  "E64C65", // Red
+  "fa4454", // Red
   "E10F00", // Pure (or mostly pure) red
   "ff3278", // Vivid pink
+  "A997BF", // Light Purple
+  "F7F3FB", // Lightest Purple
+  "CC26FF", // Purple
+  "AC8ECE", // Purple
   "f5a9f2", // Very soft magenta
   "F96DF6", // Soft magenta
   "FFACFA", // Pale magenta
+  "828EA0", // Dark Gray
+  "AFB9C7", // Gray
+  "9099B7", // Gray
+  "DAE0EC", // Light Gray
+  "FAFCFF", // Faint Gray
+  "596981", // Dark Gray
+  "96A3B6", // Gray
+  "CFD7E6", // Light Gray
+  "69727F", // Near Black
+  "4E535A", // Near Black
+  "333D47", // Asphalt
+  "7C858C", // Mineral
+  "C3C5C8", // Storm
+  "E3E7EF", // Silver
+  "EEF1F6", // Light Silver
+  "F7F8FB", // Lightest Silver
+  "FBFBFD", // Near White
+  "9D70D0", // Purple Brand
+  "8A96E9", // Purple Brand
+  "42AECC", // Purple Brand
+  "4ddcd9", // Cyrus
+  "ffaad1", // Resee
+  "77614c", // Chip
+  "a99d6e", // C.J.
+  "f9db2f", // C.J.
+  "a04c27", // Joan
+  "f3af18", // Joan
+  "ff9b43", // Daisy Mae
+  "ab2629", // Daisy Mae
+  "fffce9", // WhiteACNH
+  "1c2f60", // Catrina
+  "72aa1c", // Nat
+  "f3f338", // Nat
+  "25251a", // Flick
+  "fb646b", // Flick
+  "fcbb3a", // Saharah
+  "954f07", // Saharah
+  "e69111", // Copper
+  "c67022", // Booker
+  "ffdf50", // Wilbur
+  "38889e", // Wilbur
+  "ebb020", // Redd
+  "4f1904", // Redd
+  "d38856", // Phineas
+  "feffca", // Phineas
+  "ffffc1", // Gracie
+  "d254c7", // Gracie
+  "e3ecf5", // Wisp
+  "7490c2", // Wisp
+  "0073ff", // Gulliver
+  "f52c2c", // Gullivarrr
+  "7f5174", // Label
+  "3c4c78", // Mabel
+  "895452", // Sable
+  "7dcc00", // Grams, Leilani, Kapp'n, Leila
+  "fff364", // Grams, Leilani, Kapp'n, Leila
+  "feff4f", // Katie
+  "9c4e00", // Katie
+  "fe8885", // Blanca
+  "3e54cf", // Porter
+  "efe956", // Porter
+  "d97012", // Don, Resetti
+  "612f0a", // Don, Resetti
+  "ffa6aa", // Lottie
+  "506b94", // Lyle
+  "7d593c", // Blathers
+  "81280a", // Celeste
+  "0a96ae", // Pave
+  "689a8b", // Brewster
+  "ff6d00", // Jack
+  "fe9ee0", // Pelly
+  "dd8dfa", // Phyllis
+  "44c04f", // Pete
+  "fc81d9", // Harriet
+  "ffe20b", // Zipper
+  "0ea8c7", // Zipper
+  "de8735", // Timmy, Tom Nook, Tommy
+  "d6781a", // Jingle
+  "fffe69", // Jingle
+  "f44957", // Pascal
+  "fffd87", // Pascal
+  "2a4869", // Kicks
+  "78b3c7", // Kicks
+  "c0ab72", // Leif
+  "ebc83c", // Harvey
+  "fff98f", // Isabelle
+  "c1a081", // Digby
+  "846958", // Luna
+  "fabe3b", // Luna
+  "595757", // K.K.
+  "545259", // DJ KK
+  "ffea6b", // Tortimer
+  "705800", // Tortimer
+  "ff97ca", // Franklin
+  "4b4496", // Franklin
+  "ffb0b0", // Shrunk
+  "a90d0a", // Shrunk
+  "8c99fd", // Wendell
+  "5a66d2", // Rover
   "241395", // TeamColor_Cop_Blue
   "1410f", // TeamColor_Cop_Blue
   "e1f019", // TeamColor_Cop_Blue
