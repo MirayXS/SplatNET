@@ -197,6 +197,12 @@ arrayColors = [
   "206694", // dark blue
   "647096", // Mostly desaturated dark blue
   "AABFF2", // Very soft blue
+  "6D83F2", // Soft blue
+  "6A98F0", // Soft blue
+  "4961DC", // Soft blue
+  "8EA6DB", // Very soft blue
+  "6A54C9", // Moderate blue
+  "C7D0FF", // Very pale blue
   "CBDAF7", // Light grayish blue
   "818386", // Dark grayish blue
   "979C9F", // Dark grayish blue
