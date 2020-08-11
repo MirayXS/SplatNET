@@ -27,7 +27,7 @@
   - [Random Generator](#random-generator)
 - [Internal Data](#internal-data)
   - SplatHeX
-  - MirayAPI
+  - SplatDatabase
 - [Schedules](#schedules)
   - Main API
       - Co-op (Salmon Run)
