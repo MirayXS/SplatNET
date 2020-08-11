@@ -10,7 +10,7 @@
 | Basic requirements| [![JavaScript](https://img.shields.io/badge/language-javascript-F7DF1E.svg?logo=JavaScript)](https://www.javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-14.4.0-339933.svg?logo=Node.js)](https://nodejs.org) [![DiscordJS](https://img.shields.io/badge/Discord.js-v12.2.0-7289DA.svg?logo=Discord)](https://discord.js.org) |
 | Github Repository Info |[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?logo=github)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/MirayXS/SplatNET.svg?logo=Github&style=popout&logoColor=white) ![GitHub repo size](https://img.shields.io/github/repo-size/MirayXS/SplatNET?logo=github) |
 <!-- | Dependencies | [![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=MirayXS/SplatNET)](https://dependabot.com)  [![david-dm-org](https://img.shields.io/david/Asgarrrrr/Luna?color=4F36EC&style=flat-square)](https://david-dm.org/MirayXS/SplatNET) [![Known Vulnerabilities](https://snyk.io/test/github/MirayXS/SplatNET/badge.svg?targetFile=package.json)](https://snyk.io/test/github/MirayXS/SplatNET?targetFile=package.json) | -->
-| Discord Bot | [![Discord Bots](https://top.gg/api/widget/status/720254825815736410.svg)](https://top.gg/bot/720254825815736410) [![Discord Bots](https://top.gg/api/widget/lib/720254825815736410.svg)](https://top.gg/bot/720254825815736410) [![Discord Bots](https://top.gg/api/widget/owner/720254825815736410.svg)](https://top.gg/bot/720254825815736410)
+| Discord Bot | [![Discord Bots](https://top.gg/api/widget/status/720254825815736410.svg)](https://top.gg/bot/720254825815736410) [![Discord Bots](https://top.gg/api/widget/lib/720254825815736410.svg)](https://top.gg/bot/720254825815736410) [![Discord Bots](https://top.gg/api/widget/owner/720254825815736410.svg)](https://top.gg/bot/720254825815736410)  |
 
 ## Table Of Contents
 <details>
@@ -201,3 +201,6 @@
 - Main API: [splatoon2.ink JSON Data](https://splatoon2.ink)
   - Gear
     - Current SplatNet Gear: [splatoon2.ink/data/merchandises.json](https://splatoon2.ink/data/merchandises.json)
+<hr>
+
+[![Discord Bots](https://top.gg/api/widget/720254825815736410.svg)](https://top.gg/bot/720254825815736410)
