@@ -203,4 +203,6 @@
     - Current SplatNet Gear: [splatoon2.ink/data/merchandises.json](https://splatoon2.ink/data/merchandises.json)
 <hr>
 
+<div align="center">
 [![Discord Bots](https://top.gg/api/widget/720254825815736410.svg)](https://top.gg/bot/720254825815736410)
+</div>
