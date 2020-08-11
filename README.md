@@ -204,5 +204,7 @@
 <hr>
 
 <div align="center">
+
 [![Discord Bots](https://top.gg/api/widget/720254825815736410.svg)](https://top.gg/bot/720254825815736410)
+
 </div>
