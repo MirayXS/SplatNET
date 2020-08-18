@@ -24,7 +24,10 @@
         "review",
         "security",
         "tool",
-        "test"
+        "test",
+        "tutorial",
+        "talk",
+        "userTesting"
       ]
     }
   ],
