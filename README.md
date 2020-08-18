@@ -1,7 +1,7 @@
 <img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://pbs.twimg.com/media/DM3lhkrW4AAEeR7?format=png&name=large">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-9C84EF.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
