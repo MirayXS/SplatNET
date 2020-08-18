@@ -232,6 +232,17 @@ arrayColors = [
   "a340d", // Unknown
   "2402", // Unknown
   "20002", // Unknown
+  "e1e6e1", // Unknown
+  "ffe4b4", // Unknown
+  "2e2b37", // Unknown
+  "726193", // Unknown
+  "e37b7c", // Unknown
+  "353865", // Unknown
+  "fdd997", // Unknown
+  "6c5e86", // Unknown
+  "de7172", // Unknown
+  "fedea6", // Unknown
+  "323459", // Unknown
   "6B49B5", // つぶあん/こしあん
   "C64D7B", // つぶあん/こしあん
   "DE71A5", // ウサギ/カメ

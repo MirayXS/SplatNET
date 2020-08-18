@@ -2,7 +2,7 @@ const { MessageEmbed } = require('discord.js')
 
 module.exports = {
     name: "sp2code",
-    category: "randomizers",
+    category: "Random Generator",
     description: "Generates a random private session code (DMs)",
   execute(message) {
 
