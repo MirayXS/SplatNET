@@ -23,6 +23,7 @@
   "homepage": "https://github.com/MirayXS/SplatNET#readme",
   "dependencies": {
     "chalk": "^4.1.0",
+    "dblapi.js": "^2.4.1",
     "discord.js": "^12.2.0",
     "discord.js-menu": "^1.0.3",
     "fs": "0.0.1-security",
