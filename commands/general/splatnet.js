@@ -1,7 +1,8 @@
 const { MessageEmbed } = require('discord.js')
 const request = require('superagent')
 const { Menu } = require('discord.js-menu');
-const { RandomColorGenerator } = require('../../helper.js')
+const { RandomColorGenerator } = require('../../util/ColorHelper.js')
+const { UserAgent } = require('../../util/UserAgentHelper.js')
 
 module.exports = {
     name: "splatnet",
@@ -9,7 +10,7 @@ module.exports = {
     description: "Displays contents of the splatnet shop",
   execute(message) {
 
-request.get('https://splatoon2.ink//data/merchandises.json').set('User-Agent', "SplatNET/5.2.0 (Discord Author Contact: XxMirayxX21#3561) [Repository: github.com/MirayXS/SplatNET]")
+request.get('https://splatoon2.ink//data/merchandises.json').set('User-Agent', UserAgent)
     .end((err, response) => {
       if (message.channel.type === 'dm') return message.channel.send("DiscordAPIError: Cannot execute action on a DM channel")
 new Menu(message.channel, message.author.id, [

@@ -1,5 +1,6 @@
 const { MessageEmbed } = require('discord.js')
 const request = require('superagent')
+const { UserAgent } = require('../../util/UserAgentHelper.js')
 
 module.exports = {
     name: "currentmaps",
@@ -7,7 +8,7 @@ module.exports = {
     description: "Displays the current Splatoon 2 Gamemodes/Maps",
   execute(message) {
 
-request.get('https://splatoon2.ink/data/schedules.json').set('User-Agent', "SplatNET/5.2.0 (Discord Author Contact: XxMirayxX21#3561) [Repository: github.com/MirayXS/SplatNET]")
+request.get('https://splatoon2.ink/data/schedules.json').set('User-Agent', UserAgent)
     .end((err, response) => {
   const embed = new MessageEmbed()
   .setTitle("Current Splatoon 2 Maps")

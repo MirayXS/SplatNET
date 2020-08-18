@@ -1,5 +1,6 @@
 const { MessageEmbed } = require('discord.js')
 const request = require('superagent')
+const { UserAgent } = require('../../util/UserAgentHelper')
 
 module.exports = {
     name: "nextsalmonrun",
@@ -7,9 +8,9 @@ module.exports = {
     description: "Displays upcoming Splatoon 2 Salmon Run Map/Weapons",
   execute(message) {
 
-request.get('https://splatoon2.ink/data/coop-schedules.json').set('User-Agent', "SplatNET/5.2.0 (Discord Author Contact: XxMirayxX21#3561) [Repository: github.com/MirayXS/SplatNET]")
+request.get('https://splatoon2.ink/data/coop-schedules.json').set('User-Agent', UserAgent)
     .end((err, response) => {
-      request.get('https://splatoon2.ink/data/timeline.json').set('User-Agent', "SplatNET/5.2.0 (Discord Author Contact: XxMirayxX21#3561) [Repository: github.com/MirayXS/SplatNET]")
+      request.get('https://splatoon2.ink/data/timeline.json').set('User-Agent', UserAgent)
       .end((err, responseTimeline) => {
   const embed = new MessageEmbed()
   .setTitle("Upcoming Salmon Run")

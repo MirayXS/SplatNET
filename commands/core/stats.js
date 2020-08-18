@@ -4,7 +4,7 @@ const { heapUsed, heapTotal } = process.memoryUsage()
 const { duration } = require('moment');
 const momentDurationFormatSetup = require('moment-duration-format');
 const { release, cpus } = require('os');
-const { timeZoneConvert, commatize, fromNow, roundTo, addBlankSpace } = require('../../helper.js')
+const { timeZoneConvert, commatize, fromNow, roundTo, addBlankSpace } = require('../../util/MainHelper.js')
 
 module.exports = {
     name: "stats",

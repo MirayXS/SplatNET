@@ -34,7 +34,7 @@ console.log([
 
 console.log(cyan('\n\n<----------- Booting up SplatNET ----------->'))
 console.log(`Upon booting, you might notice some of these log headers:`)
-//console.log(`${yellow('[WARN]')} - Warn about some errors in the code`)
+console.log(`${yellow('[WARN]')}    - Warn about some errors in the code`)
 console.log(`${green('[SUCCESS]')} - Alerts that a process has been successfully executed.`)
 console.log(`${red('[FAIL]')}    - Alerts about a fatal error that might make the bot dysfunctional.`)
 console.log(`${magenta('[DEBUG]')}   - Appears when debugging mode is on - Alert when a promise is being rejected which are not caught.`)
@@ -44,9 +44,11 @@ console.log(cyan('--------------------------------------------\n\n'))
 
 //------------------------Require the Necessary Packages---------------------//
 
-const { Client, Collection } = require('discord.js')
-const fs                     = require('fs');
-const { prefix, token }      = require('./config/config.json')
+const { Client, Collection, User }                              = require('discord.js')
+const fs                                                  = require('fs');
+const { prefix, token }                                   = require('./config/config.json')
+const { PostStatsDBLInterval, GetStatsDBL, PostStatsDBL } = require('./util/DBLHelper.js')
+const { UserAgent }                                       = require('./util/UserAgentHelper.js')
 
 //------------------------------Initialize Client----------------------------//
 
@@ -91,11 +93,34 @@ client.on('message', message => {
 	}
 });
 
+//---------------------------Bind Events to CLient---------------------------//
+
+fs.readdir(`./events/`, (err, files) => {
+
+	let evtfiles = files.filter( f => f.split(".").pop() === 'js')
+  
+	  evtfiles.forEach( evt => {
+  
+		const eventName = evt.split(".")[0];
+		const event = require(`./events/${evt}`)
+  	    client.on(eventName, event.bind(null, client))
+
+	  })
+  
+	  console.log(green(`[SUCCESS] : ${evtfiles.length} events now ready to go online!\n\n`))
+})
+
 //--------------------------------Debugging----------------------------------//
 
 process.on('unhandledRejection', err => {
 	console.error(`${magenta('[DEBUG]')} : ${err}`)
-  })
+})
+
+process.on('SIGINT', () => {
+	console.log(`${yellow('[WARN]')} : Disposing SplatNET...`);
+
+	process.exit(0);
+});
 
 //------------------------Log In---------------------//
 
@@ -119,6 +144,10 @@ client.once("ready", () =>{
 	console.log(`${green('[SUCCESS]')} : Logged in as ${cyan(`${client.user.username}`)}`)
 	console.log(`${green('[SUCCESS]')} : Logged in as ${cyan(`User ID: ${client.user.id}`)}`)
 	console.log(green('-------------------------------------\n\n'))
+	console.log(UserAgent)
 	client.user.setActivity(`${prefix}help || GC: ${client.guilds.cache.size} || UC: ${client.users.cache.size}`, {type: "STREAMING", url: "https://twitch.tv/."});
 	//client.user.setActivity(`${RPres}`, {type: "STREAMING", url: RUrl});
+	// PostStatsDBLInterval()
+        // GetStatsDBL()
+        // PostStatsDBL() 
 });
