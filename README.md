@@ -221,7 +221,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://mirayxs.github.io"><img src="https://avatars2.githubusercontent.com/u/55494819?v=4" width="100px;" alt=""/><br /><sub><b>Miray</b></sub></a><br /><a href="https://github.com/MirayXS/SplatNET/issues?q=author%3AMirayXS" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://mirayxs.github.io"><img src="https://avatars2.githubusercontent.com/u/55494819?v=4" width="100px;" alt=""/><br /><sub><b>Miray</b></sub></a><br /><a href="https://github.com/MirayXS/SplatNET/issues?q=author%3AMirayXS" title="Bug reports">🐛</a> <a href="https://github.com/MirayXS/SplatNET/commits?author=MirayXS" title="Code">💻</a></td>
   </tr>
 </table>
 
