@@ -13,7 +13,18 @@
       "contributions": [
         "bug",
         "code",
-        "content"
+        "content",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "plugin",
+        "projectManagement",
+        "question",
+        "review",
+        "security",
+        "tool",
+        "test"
       ]
     }
   ],
