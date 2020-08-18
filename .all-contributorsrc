@@ -11,7 +11,20 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/55494819?v=4",
       "profile": "http://mirayxs.github.io",
       "contributions": [
-        "bug"
+        "bug",
+        "code",
+        "content",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "plugin",
+        "projectManagement",
+        "question",
+        "review",
+        "security",
+        "tool",
+        "test"
       ]
     }
   ],
