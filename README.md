@@ -106,6 +106,7 @@
     - `splat!league` displays current and next league stats rotation
     - `splat!rotations` displays all modes current and next stats rotation // [discord.js easy menu creator](https://github.com/jowsey/discord.js-menu)
 
+# <a href="https://github.com/MirayXS/DiscordPrivacyPolicy/blob/master/README.md"> <img src="https://github.com/astrit/css.gg/raw/master/icons/svg/lock.svg"> Discord Bot Application - Privacy Policy [DiscordPrivacyPolicy] </a>
 <hr>
 
 # Selfhosting  
