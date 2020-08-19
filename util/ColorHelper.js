@@ -346,8 +346,7 @@ arrayColors = [
 ];
 function RandomColorGenerator() {
   var colorPlaceHolder = "";
-  var arrayColorSelector =
-    arrayColors[Math.floor(Math.random() * arrayColors.length)];
+  var arrayColorSelector = arrayColors[Math.floor(Math.random() * arrayColors.length)];
   colorPlaceHolder = arrayColorSelector;
   return colorPlaceHolder;
 }
