@@ -1,4 +1,9 @@
 <img width="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="SplatNET" src="https://pbs.twimg.com/media/DM3lhkrW4AAEeR7?format=png&name=large">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-9C84EF.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # SplatNET 
 >>>>>>>>>> ### SplatNET is a Powerful Splatoon Discord Bot
@@ -208,3 +213,22 @@
 [![Discord Bots](https://top.gg/api/widget/720254825815736410.svg)](https://top.gg/bot/720254825815736410)
 
 </div>
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://mirayxs.github.io"><img src="https://avatars2.githubusercontent.com/u/55494819?v=4" width="100px;" alt=""/><br /><sub><b>Miray</b></sub></a><br /><a href="https://github.com/MirayXS/SplatNET/issues?q=author%3AMirayXS" title="Bug reports">🐛</a> <a href="https://github.com/MirayXS/SplatNET/commits?author=MirayXS" title="Code">💻</a> <a href="#content-MirayXS" title="Content">🖋</a> <a href="https://github.com/MirayXS/SplatNET/commits?author=MirayXS" title="Documentation">📖</a> <a href="#ideas-MirayXS" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-MirayXS" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-MirayXS" title="Maintenance">🚧</a> <a href="#plugin-MirayXS" title="Plugin/utility libraries">🔌</a> <a href="#projectManagement-MirayXS" title="Project Management">📆</a> <a href="#question-MirayXS" title="Answering Questions">💬</a> <a href="https://github.com/MirayXS/SplatNET/pulls?q=is%3Apr+reviewed-by%3AMirayXS" title="Reviewed Pull Requests">👀</a> <a href="#security-MirayXS" title="Security">🛡️</a> <a href="#tool-MirayXS" title="Tools">🔧</a> <a href="https://github.com/MirayXS/SplatNET/commits?author=MirayXS" title="Tests">⚠️</a> <a href="#tutorial-MirayXS" title="Tutorials">✅</a> <a href="#talk-MirayXS" title="Talks">📢</a> <a href="#userTesting-MirayXS" title="User Testing">📓</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
