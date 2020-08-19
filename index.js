@@ -47,7 +47,7 @@ console.log(cyan('--------------------------------------------\n\n'))
 const { Client, Collection, User }                              = require('discord.js')
 const fs                                                  = require('fs');
 const { prefix, token }                                   = require('./config/config.json')
-const { PostStatsDBLInterval, GetStatsDBL, PostStatsDBL } = require('./util/DBLHelper.js')
+// const { PostStatsDBLInterval, GetStatsDBL, PostStatsDBL } = require('./util/DBLHelper.js')
 const { UserAgent }                                       = require('./util/UserAgentHelper.js')
 
 //------------------------------Initialize Client----------------------------//

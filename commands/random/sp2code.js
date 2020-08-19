@@ -16,6 +16,6 @@ module.exports = {
     .setThumbnail('https://cdn.discordapp.com/attachments/619605360260546560/665888484409737226/code.png')
     .addField('\u200B', '**' + first + second + third + fourth + '**')
     message.channel.send('Generating session code. Check your Private Messages!')
-    message.author.send(embed)
+    message.author.send(embed).catch(e => message.channel.send('❌ ...Or not. I am unable to DM you from this server.\n'+'```diff\n'+'-'+' '+e.message+'```'))
  }
 }
