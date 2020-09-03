@@ -24,6 +24,7 @@
 <br>
 
 - [Selfhosting](#selfhosting)
+  - [Agreement](#agreement)
   - [Installation](#installation)
     - [Prerequisite](#prerequisite)
     - [Downloading and installing steps](#downloading-and-installing-steps)
@@ -110,6 +111,12 @@
 <hr>
 
 # Selfhosting  
+
+## Agreement
+
+- You may not host a public version of SplatNET.
+- You may not charge for the usage of your instance of SplatNET.
+- You may not provide support for SplatNET.
 
 ## Installation
 
