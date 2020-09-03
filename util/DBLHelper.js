@@ -1,8 +1,14 @@
+// Discord API
+
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const { token } = require("../config/config.json")
+
+// dblapi.js
 const DBL = require("dblapi.js");
 const dbl = new DBL('-', client);
+
+// Functiions
 
 function PostStatsDBLInterval() {
 dbl.postStats(client.guilds.size);
@@ -40,6 +46,8 @@ dbl.getBot('720254825815736410').then(bot => {
     console.log(`Discord Bot Application Username        : ${bot.username}#${bot.discriminator}`)
 })
 }
+
+// Log In
 
 client.login(token)
 
