@@ -231,7 +231,7 @@
 
 **Your support, however modest it might be, is necessary.**
 
-**Be it because you love or enjoy RoUpdates.**
+**Be it because you love or enjoy SplatNET.**
 
 #### **Your donations help to continue to support and improve this project!**
 
