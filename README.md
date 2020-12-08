@@ -222,6 +222,28 @@
 
 </div>
 
+<hr>
+
+<img width="250" align="left" style="float: left; margin: 0 10px 0 0;" alt="Donate" src="https://loutre.blockchair.io/images/new/balance-received.svg">
+
+## Donate
+**Making a donation is an act of generosity.**
+
+**Your support, however modest it might be, is necessary.**
+
+**Be it because you love or enjoy RoUpdates.**
+
+#### **Your donations help to continue to support and improve this project!**
+
+<!-- **Benefits: Your queries will be given the highest priority, and you will be credited in the source code as a generous donor.** -->
+
+* <img src="https://bitcoin.org/favicon.png" width="20" height="20">         Bitcoin:      ```1E8a8hVY3BGggM9ALyGgSR2GiVW2BBFMvk```
+* <img src="https://tinyurl.com/y3w5bo94" width="20" height="20">            Ethereum:     ```0x697a8c4C9158b09f6968b5899fB77cd2e4d39Fcb```
+* <img src="https://litecoin.org//img/litecoin.png" width="20" height="20">  Litecoin:     ```LMSC8eksqMcP4kNf7tnKj3bPqgUmxscR1w```
+* <img src="https://tinyurl.com/yym8xckp" width="20" height="20">            Bitcoin Cash: ```bitcoincash:qzxqfcm6lem5lgemqyhgxgyh7ev32fge6q7y8pxcye```
+
+<hr>
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
