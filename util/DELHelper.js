@@ -14,7 +14,7 @@ const URL = "https://api.discordextremelist.xyz/v1/bot/${botID}";
 
 const reqHeaders = {
     "Content-Type": "application/json",
-    "Authorization": "-"
+    "Authorization": "DELAPI_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-720254825815736410"
 }
 
 // Request Body
