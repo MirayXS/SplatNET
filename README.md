@@ -224,39 +224,6 @@
 
 <hr>
 
-<img width="250" align="left" style="float: left; margin: 0 10px 0 0;" alt="Donate" src="https://loutre.blockchair.io/images/new/balance-received.svg">
-
-## Donate
-**Making a donation is an act of generosity.**
-
-**Your support, however modest it might be, is necessary.**
-
-**Be it because you love or enjoy SplatNET.**
-
-#### **Your donations help to continue to support and improve this project!**
-
-<!-- **Benefits: Your queries will be given the highest priority, and you will be credited in the source code as a generous donor.** -->
-
-<img width="50" align="left" style="float: left; margin: 0 10px 0 0;" alt="Crypto" src="https://media.discordapp.net/attachments/720257914006405180/785890149439373322/image.png">
-
-## Crypto
-* <img src="https://bitcoin.org/favicon.png" width="20" height="20">         Bitcoin:      ```1E8a8hVY3BGggM9ALyGgSR2GiVW2BBFMvk```
-* <img src="https://tinyurl.com/y3w5bo94" width="20" height="20">            Ethereum:     ```0x697a8c4C9158b09f6968b5899fB77cd2e4d39Fcb```
-* <img src="https://litecoin.org//img/litecoin.png" width="20" height="20">  Litecoin:     ```LMSC8eksqMcP4kNf7tnKj3bPqgUmxscR1w```
-* <img src="https://tinyurl.com/yym8xckp" width="20" height="20">            Bitcoin Cash: ```bitcoincash:qzxqfcm6lem5lgemqyhgxgyh7ev32fge6q7y8pxcye```
-
-<img width="50" align="left" style="float: left; margin: 0 10px 0 0;" alt="Miscellaneous" src="https://media.discordapp.net/attachments/720257914006405180/785891870773084211/image_1.png">
-
-## Miscellaneous
-* <img src="https://tinyurl.com/yymtgsf9" width="25" height="25">            Discord Nitro
-> Main Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
-* <img src="https://tinyurl.com/yxhvpx4b" width="25" height="25">            Roblox Credit: Robux
-> <img src="https://mcleaks.net/favicon.ico" width="25" height="25"> [Roblox GiftCard](https://www.roblox.com/giftcards)
->> Send To Discord Direct Message
->>> Main Discord: [@XxMirayxX21#3561](https://discord.com/users/325605285731500033)
-
-<hr>
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
